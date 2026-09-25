@@ -1,1 +1,26 @@
-
+{
+  "payload": {
+    "version": 1,
+    "algorithm": "aes-256-gcm",
+    "publicKeyFingerprint": "8d10b39ab45af8af30e0293bd132316cea959b7c76ed0d597558a9713bde7c25",
+    "files": {
+      "index.js": {
+        "file": "index.js.enc",
+        "sha256": "1e9d300a1855c4cc127b70e1b9dbbad393b925774979c55c363c23a4892d232b"
+      },
+      "dashboard.js": {
+        "file": "dashboard.js.enc",
+        "sha256": "eca48ee034a22b74e0a49605ffc482b44441c010ccf13b5d2db47eda2fec362c"
+      },
+      "device-license.js": {
+        "file": "device-license.js.enc",
+        "sha256": "9ed8fad9d20e5d940409f58a89a88b35ee0424de97d371695525a866ccb31486"
+      },
+      "license-client.js": {
+        "file": "license-client.js.enc",
+        "sha256": "6e2cd8ac37710254c45cdca9657a9548d67a7474df8f95f2c548518bcbfc23f6"
+      }
+    }
+  },
+  "signature": "dsMy4xj1RExtuSqmNHbphvyNVIS0+0EFXwXh7q1w4QLq+6s1CzHxAqumDM0eou1mcanf3NrS8dp2anW94f1eDw=="
+}
